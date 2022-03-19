@@ -1,0 +1,4 @@
+1.Se usa = para asignar valores a una variable, == se usa para comparar dos variables
+2.int,long,float,double,boolean
+3. Oracle 
+4.
